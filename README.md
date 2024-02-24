@@ -1,10 +1,5 @@
-# ABOUT ME
+# Learning and Scribbles
 
-Name: Yousuff
-
-Education: B.Tech in Electrical and Electronics Engineering (2023-2027)
-
-language skills:
-C
-
+A repository for me to learn, store, edit or revisit my work.
+feel free to use these for your own future endavours, godspeed.
 
